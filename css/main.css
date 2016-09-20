@@ -37,19 +37,15 @@ header{
 }
 
 h1{
-		font-family: 'Bangers', cursive;
-		text-align: center;
-	}
-
-.bg{
-	background: url("..//image/desert.jpg");
-	background-repeat: no-repeat;
-}
-
-h2{
-	margin-top:2rem;
+	margin-top:-1rem;
 	text-align: center;
 	color: black;
+}
+
+.myface{
+	display: block;
+	margin: auto;
+	width: 20%;
 }
 
 .logo{
@@ -82,16 +78,18 @@ h2{
 	text-align: center;
 	margin-top: -1.4rem;
 }
+
 .phone{
 	font-size: 1rem;
 	text-align: center;
 }
+
 .end{
 	text-align: center;
 	font-family: 'Bangers', cursive;
-	margin-top: 1.5rem;
+	margin-top: -2/5rem;
 	padding:3rem 2rem 1rem 1rem;
-	color: black;
+	color: black
 }
 
 a{
